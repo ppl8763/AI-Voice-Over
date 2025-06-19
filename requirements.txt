@@ -1,7 +1,7 @@
 streamlit
-moviepy
-pydub
+moviepy==1.0.3
 gTTS
-torch==2.0.1
+pydub
 ffmpeg-python
+torch==2.0.1
 git+https://github.com/openai/whisper.git
