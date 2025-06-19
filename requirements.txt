@@ -1,7 +1,6 @@
-streamlit==1.26.0
-moviepy==1.0.3
-gTTS
-pydub
+streamlit
 ffmpeg-python
+pydub
+gTTS
 openai-whisper
 torch==2.0.1
